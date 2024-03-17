@@ -3,4 +3,4 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 A beginner in Python
 - 💞️ Looking to collaborate on Machine Learning projects
-- 📫 Looking to reach out? 📩 vengateshdayalan@outlook.com
+- 📫 Looking to reach out? 📩 vengateshdayalan@gmail.com
