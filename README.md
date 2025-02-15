@@ -1,6 +1,6 @@
 - 👋 Hello there, I'm Vengatesh Dayalan
 - 👨🏾‍💻I currently work as a CAD Technician
-- 👀 I’m interested in Machine Learning
+- 👀 I have embarked on a journey to become an ML Engineer
 - 🌱 A beginner in Python
-- 💞️ Looking to collaborate on Machine Learning projects
+- 🙋🏻‍♂️ I like to shoulder people with similar interests
 - 📫 Looking to reach out? 📩 vengateshdayalan@gmail.com
