@@ -1,6 +1,5 @@
 - 👋 Hello there, I'm Vengatesh Dayalan
 - 👨🏾‍💻I currently work as a CAD Technician
-- 👀 I have embarked on a journey to become an ML Engineer
-- 🌱 A beginner in Python
-- 🙋🏻‍♂️ I like to shoulder people with similar interests
+- 👀 I have embarked on a journey to become an AI-Native Software Developer
+- 🌱 A beginner in JavaScript & Python
 - 📫 Looking to reach out? 📩 vengateshdayalan@gmail.com
